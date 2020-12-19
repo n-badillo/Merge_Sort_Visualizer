@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Merge_Sort_Visualizer/static/css/main.7f675070.chunk.css",
+    "main.js": "/Merge_Sort_Visualizer/static/js/main.00d603da.chunk.js",
+    "main.js.map": "/Merge_Sort_Visualizer/static/js/main.00d603da.chunk.js.map",
+    "runtime-main.js": "/Merge_Sort_Visualizer/static/js/runtime-main.4d9702ba.js",
+    "runtime-main.js.map": "/Merge_Sort_Visualizer/static/js/runtime-main.4d9702ba.js.map",
+    "static/js/2.5514e7f9.chunk.js": "/Merge_Sort_Visualizer/static/js/2.5514e7f9.chunk.js",
+    "static/js/2.5514e7f9.chunk.js.map": "/Merge_Sort_Visualizer/static/js/2.5514e7f9.chunk.js.map",
+    "static/js/3.46d350ad.chunk.js": "/Merge_Sort_Visualizer/static/js/3.46d350ad.chunk.js",
+    "static/js/3.46d350ad.chunk.js.map": "/Merge_Sort_Visualizer/static/js/3.46d350ad.chunk.js.map",
+    "index.html": "/Merge_Sort_Visualizer/index.html",
+    "static/css/main.7f675070.chunk.css.map": "/Merge_Sort_Visualizer/static/css/main.7f675070.chunk.css.map",
+    "static/js/2.5514e7f9.chunk.js.LICENSE.txt": "/Merge_Sort_Visualizer/static/js/2.5514e7f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d9702ba.js",
+    "static/js/2.5514e7f9.chunk.js",
+    "static/css/main.7f675070.chunk.css",
+    "static/js/main.00d603da.chunk.js"
+  ]
+}
