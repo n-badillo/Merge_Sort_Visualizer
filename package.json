@@ -1,5 +1,5 @@
 {
-  "homepage": "https://n-badillo.github.io/Merge_Sort_Visualization/",
+  "homepage": "http://n-badillo.github.io/Merge_Sort_Visualizer",
   "name": "red_black_tree",
   "version": "0.1.0",
   "private": true,
@@ -15,12 +15,12 @@
     "web-vitals": "^0.2.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
